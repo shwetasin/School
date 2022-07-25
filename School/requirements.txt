@@ -1,0 +1,5 @@
+fastapi==0.70.0
+icecream==2.1.1
+psycopg2-binary==2.9.1
+SQLAlchemy==1.4.26
+uvicorn==0.15.0
